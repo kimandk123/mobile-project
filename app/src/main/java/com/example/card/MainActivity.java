@@ -120,8 +120,8 @@ public class MainActivity extends AppCompatActivity {
                     labai3.setImageResource(manghinhbai[x][y]);
                     chuoithongbao+=" so nut la " + kq;
                 }
-                thongbao.setText("Cac la da rut" + cacladarut.toString()
-                        +chuoithongbao + "ba tay" + batay);
+                thongbao.setText("Cac la da rut " + cacladarut.toString()
+                        +chuoithongbao);
             }
         });
     }

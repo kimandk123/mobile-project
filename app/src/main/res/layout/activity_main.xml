@@ -32,25 +32,25 @@
     <ImageView
         android:id="@+id/ivlabai1"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="160dp"
         android:src="@drawable/b2fv" />
 
     <ImageView
         android:id="@+id/ivlabai2"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="160dp"
         android:src="@drawable/b2fv" />
 
     <ImageView
         android:id="@+id/ivlabai3"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="160dp"
         android:src="@drawable/b2fv" />
 
     <TextView
         android:id="@+id/txtthongbao"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
         android:text="@string/txtthongbao"
         android:textAppearance="?android:attr/textAppearance" />
 </LinearLayout>
